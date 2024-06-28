@@ -4,5 +4,6 @@
 ### MACIAS QUIROZ JUSTIN IVAN
 ### MOREIRA CABEZAS GENESIS JOMARY
 ### ROMO LOPEZ BRYAN ANDRES
-<img src="captura1">
-<img src="captura2">
+
+<img src="captura1.png">
+<img src="captura2.png">
